@@ -29,3 +29,6 @@
 
 ## 9. Patience, persistence and perspiration make an unbeatable combination for success 
 > Write a program that prints all possible combinations of single-digit numbers.
+
+## 10. Inventing is a combination of brains and materials. The more brains you use, the less material you need 
+> Write a program that prints all possible different combinations of two digits.

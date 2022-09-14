@@ -35,3 +35,6 @@
 
 ## 11. 98 Battery Street, the OG
 > Write a function that prints all natural numbers from `n` to `98`, followed by a new line.
+
+## 12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
+> Write a function that prints the n times table, starting with 0.

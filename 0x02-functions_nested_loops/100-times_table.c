@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- *times_table - Prints the 9 times table, starting with 0.
+ *print_times_table - Prints the n times table, starting with 0.
+ * @n: The integer to times
  */
 void print_times_table(int n)
 {
 	int num, mult, prod;
-	
-	if (n < 15 || n > 0) 
+
+	if (n < 15 || n > 0)
 	{
 		for (num = 0; num <= n; num++)
 		{
@@ -17,10 +18,10 @@ void print_times_table(int n)
 			{
 				_putchar(',');
 				_putchar(' ');
-	
+
 				prod = num * mult;
-	
-				if (prod <= n)
+
+				if (prod <= 9)
 					_putchar(' ');
 				else
 					_putchar((prod / 10) + '0');
@@ -29,7 +30,8 @@ void print_times_table(int n)
 			}
 			_putchar('\n');
 		}
-	} else {
+	} else 
+	{
 		_putchar('\n');
 	}
 }

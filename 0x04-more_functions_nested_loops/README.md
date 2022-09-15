@@ -26,3 +26,6 @@
 
 ## 8. You are so much sunshine in every square inch
 > Write a function that prints a square, followed by a new line.
+
+## 9. Fizz-Buzz
+> The “Fizz-Buzz test”

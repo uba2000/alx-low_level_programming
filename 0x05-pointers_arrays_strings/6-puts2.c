@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * put2 - prints every other character
+ * puts2 - prints every other character
  * starting with first character (even characters)
- * @s: string to print from
+ * @str: string to print from
  * Return: void
  */
 

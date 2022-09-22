@@ -7,7 +7,7 @@
  * Return: 0 if match, and s1 - s2 if not matching
  */
 
-int int _strcmp(char *s1, char *s2)
+int _strcmp(char *s1, char *s2)
 {
 	int i;
 
@@ -15,7 +15,7 @@ int int _strcmp(char *s1, char *s2)
 	{
 		if (s1[i] != s2[i])
 		{
-			return (s1[i] - s2[i])
+			return (s1[i] - s2[i]);
 		}
 	}
 	return (0);

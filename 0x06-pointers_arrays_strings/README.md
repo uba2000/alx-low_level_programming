@@ -17,3 +17,6 @@
 
 ## 5. Always look up
 > Write a function that changes all lowercase letters of a string to uppercase.
+
+## 6. Expect the best. Prepare for the worst. Capitalize on what come
+> Write a function that capitalizes all words of a string.

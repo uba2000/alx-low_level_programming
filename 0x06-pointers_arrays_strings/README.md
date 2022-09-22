@@ -20,3 +20,6 @@
 
 ## 6. Expect the best. Prepare for the worst. Capitalize on what come
 > Write a function that capitalizes all words of a string.
+
+## 7. Mozart composed his music not for the elite, but for everybody
+> Write a function that encodes a string into `1337`.

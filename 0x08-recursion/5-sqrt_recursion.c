@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * _sqrt_recursion- Find natural square root
+ * _sqrt_recursion - Find natural square root
  * @n: int
  * Return: int
  */
 
 int _sqrt_recursion(int n)
 {
-	return (square(n, 1));
+	return (square_root(n, 1));
 }
 
 /**

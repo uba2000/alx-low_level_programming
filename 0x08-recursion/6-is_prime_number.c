@@ -28,7 +28,8 @@ int is_prime(int n, int resp)
 	{
 		return (0);
 	}
-	else {
+	else
+	{
 		return (is_prime(n, resp + 1));
 	}
 }

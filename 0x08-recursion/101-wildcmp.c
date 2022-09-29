@@ -44,7 +44,7 @@ int checker(char *s1, char *s2, int a, int b, int wildUsed)
 			{
 				return (checker(s1, s2, a + 1, b, b));
 			}
-			else if (s1[a + 1] == s3[b + 1])
+			else if (s1[a + 1] == s2[b + 1])
 			{
 				return (checker(s1, s2, a + 1, b + 1, b));
 			}

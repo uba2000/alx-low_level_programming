@@ -26,7 +26,7 @@ int last_index(char *s)
 
 int is_palindrome(char *s)
 {
-	int end - last_index(s);
+	int end = last_index(s);
 
 	return (check_palindrome(s, 0, end - 1, end % 2));
 }
@@ -50,7 +50,8 @@ int check_palindrome(char *s, int start, int end, int pair)
 	{
 		return (0);
 	}
-	else {
+	else
+	{
 		return (check_palindrome(s, start + 1, end - 1, pair));
 	}
 }

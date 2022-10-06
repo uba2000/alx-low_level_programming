@@ -11,3 +11,6 @@
 
 ## 3. Neither irony nor sarcasm is argument
 > Write a program that multiplies two numbers.
+
+## 4. To infinity and beyond
+> Write a program that adds positive numbers.

@@ -5,3 +5,6 @@
 
 ## 1. string_nconcat
 > Write a function that concatenates two strings.
+
+## 2. \_calloc
+> Write a function that allocates memory for an array, using `malloc`.

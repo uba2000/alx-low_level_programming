@@ -8,3 +8,6 @@
 
 ## 2. \_calloc
 > Write a function that allocates memory for an array, using `malloc`.
+
+## 3. array_range
+> Write a function that creates an array of integers.

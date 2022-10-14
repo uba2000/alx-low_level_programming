@@ -1,2 +1,2 @@
 #!/bin/bash
-vi $1 && chmod u+x $1 && vi main.h && vi README.md && betty $1
+vi $1 && chmod u+x $1 && vi dog.h && vi README.md && betty $1
